@@ -5,7 +5,7 @@ import Footer from '@/app/components/Footer';
 
 const illustrations = [
   'bookstore cafe.jpg',
-  'illustration 3.jpg',
+  'Illustration 3.jpg',
   'ILLUSTRATION.jpg',
   'orange juice bar.jpg',
   'ILLUSTRATION 2.jpg',

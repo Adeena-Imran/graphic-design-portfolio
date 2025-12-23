@@ -61,7 +61,8 @@ export default function Certification() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {[
                 "/images/certificatewajiha1.jpeg",
-                "/images/certificatewajiha2.jpeg"
+                "/images/certificatewajiha2.jpeg",
+                "/images/certificatewajiha3.jpeg"
               ].map((src, index) => (
                 <div 
                   key={index}

@@ -75,8 +75,8 @@ export default function Contact() {
 
       <div className="mt-12 text-center text-white">
         <p>Or reach us directly:</p>
-        <p className="mt-2">Email: <a href="amnawajiha14@gmail.com" className="text-white hover:underline">amnawajiha14@gmail.com</a></p>
-        <p>Phone: <a href="tel:+1234567890" className="text-white hover:underline">0303 5667709</a></p>
+        <p className="mt-2">Email: <a href="amnawajiha18@gmail.com" className="text-white hover:underline">amnawajiha18@gmail.com</a></p>
+        <p>Phone/Whatsapp: <a href="tel:+1234567890" className="text-white hover:underline">0303 5667709</a></p>
       </div>
     </div>
     <Footer></Footer>
